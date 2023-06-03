@@ -27,7 +27,7 @@ The goal of recommendation systems is to personalize the user experience by offe
 
 ![un-55](https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50)
 
-1. [Fashion Recommendation System](https://github.com/mohansharma077/Student-Performance-Grade-Analysis-and-Prediction-) - A Recommendation system for fashion
+1. [Fashion Recommendation System](https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50) - A Recommendation system for fashion
 
 <h3>Movie Recommendation systems</h3>
 
