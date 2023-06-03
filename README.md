@@ -25,13 +25,14 @@ The goal of recommendation systems is to personalize the user experience by offe
 
 <h3>Fashion Recommendation System</h3>
 
-![un-55](https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50)
+![download](https://github.com/mohansharma077/recommendation-system-projects/assets/104629829/0d518e4f-db66-498b-bd7e-a77685dfd8e0)
 
 1. [Fashion Recommendation System](https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50) - A Recommendation system for fashion
 
 <h3>Movie Recommendation systems</h3>
 
-![OIP](https://github.com/mohansharma077/Movie-Recommender-System)
+![OIP](https://github.com/mohansharma077/recommendation-system-projects/assets/104629829/f6705c7f-4a1a-418d-b158-226f3bb6c6bb)
+
 
 1. [Movie Recommendation System](https://github.com/mohansharma077/Movie-Recommender-System) -A Recommendation system for movie
 
