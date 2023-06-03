@@ -31,8 +31,8 @@ The goal of recommendation systems is to personalize the user experience by offe
 
 <h3>Movie Recommendation systems</h3>
 
-![OIP](https://github.com/mohansharma077/recommendation-system-projects/assets/104629829/5fa7581d-9200-43ba-acec-545f6b56d8fa)
+![OIP](https://github.com/mohansharma077/Movie-Recommender-System)
 
-1. [Movie Recommendation System](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -A Recommendation system for movie
+1. [Movie Recommendation System](https://github.com/mohansharma077/Movie-Recommender-System) -A Recommendation system for movie
 
 
