@@ -23,23 +23,20 @@ The goal of recommendation systems is to personalize the user experience by offe
 
 
 
-<h2>Fashion Recommendation System</h2>
+<h3>Fashion Recommendation System</h3>
 
-![R](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/0114c35a-5458-4012-9199-9754e58cfcbd)
-
-1. [Student Performance/ Grade Analysis](https://github.com/mohansharma077/Student-Performance-Grade-Analysis-and-Prediction-) - A system for student performance and grade analysis <br/>
-2. [Loan Acceptance ](https://github.com/mohansharma077/Loan-Acceptance) -  Classification and time-series analysis for loan acceptance.<br/>
+![un-55](https://github.com/mohansharma077/recommendation-system-projects/assets/104629829/fd890a44-ab45-481c-80a0-95b119deaa30)
 
 
+1. [Fashion Recommendation System](https://github.com/mohansharma077/Student-Performance-Grade-Analysis-and-Prediction-) - A system for student performance and grade analysis <br/>
 
-<h3>Book Recommendation systems</h3>
 
-![download](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/b3f6a2e8-6e81-4fc3-8628-0caee472b4e6)
+<h3>Movie Recommendation systems</h3>
+![OIP](https://github.com/mohansharma077/recommendation-system-projects/assets/104629829/5fa7581d-9200-43ba-acec-545f6b56d8fa)
 
 
 
-1. [CEO-Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
-2. [Survival Analysis](https://github.com/mohansharma077/Survival-Analysis-of-Customers) - Survival Analysis - Perform a survival analysis of customers<br/>
-3. [Next Transaction ](https://github.com/mohansharma077/Customer-Next-Transaction-Prediction/) - Deep learning model to predict the transaction amount and days to next transaction<br/>
+1. [Movie Recommendation System](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
+<br/>
 
 
