@@ -1,6 +1,6 @@
 # recommendation-system-projects
 
- Here's a revised table summarizing the algorithms and models used in fashion recommendation systems::
+ Here's a revised table summarizing the algorithms and models used in recommendation systems::
 
 | Algorithm/Model | Description |
 |-----------------|-------------|
