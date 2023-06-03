@@ -25,16 +25,14 @@ The goal of recommendation systems is to personalize the user experience by offe
 
 <h3>Fashion Recommendation System</h3>
 
-![un-55](https://github.com/mohansharma077/recommendation-system-projects/assets/104629829/fd890a44-ab45-481c-80a0-95b119deaa30)
+![un-55](https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50)
 
-1. [Fashion Recommendation System](https://github.com/mohansharma077/Student-Performance-Grade-Analysis-and-Prediction-) - A system for student performance and grade analysis <br/>
-
+1. [Fashion Recommendation System](https://github.com/mohansharma077/Student-Performance-Grade-Analysis-and-Prediction-) - A Recommendation system for fashion
 
 <h3>Movie Recommendation systems</h3>
 
 ![OIP](https://github.com/mohansharma077/recommendation-system-projects/assets/104629829/5fa7581d-9200-43ba-acec-545f6b56d8fa)
 
-1. [Movie Recommendation System](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
-<br/>
+1. [Movie Recommendation System](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) -A Recommendation system for movie
 
 
